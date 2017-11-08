@@ -86,12 +86,3 @@ We have provided a footprint to solder on a CR2302 coin cell holder on the botto
 ![e0-bottom](/images/e0-dev-bottom.png)
 
 That's it! The rest of the development process should be similar to that of the Electron.
-
-
-### Change log
-
-**v0.0.4 (LATEST)**
- 
- - Initial beta release
-
-
